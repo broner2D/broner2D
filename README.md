@@ -1,16 +1,17 @@
-### Hi there 👋
+# About me
+***
+## Description
+***
+Hello my name is Abdulrahman (Broner  2D), and I am a simple dev that can program, I dont really use github much but when I have time for it, I do publish some reositories\
 
-<!--
-**broner2D/broner2D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Languages I know
+**I know some languages as you could say I am a programming beginner**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| Language | Knowledge |
+| ----------- | ----------- |
+| Python | Mid level (I know how to use it with some functions) |
+| Javascript | Comfortably leveled | 
+| Java | lost advanced knowledge (knowing basics only) |
+| Rust | Comfortable to use |
