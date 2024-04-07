@@ -3,7 +3,7 @@ Hello my name is Abdulrahman (Broner  2D), and I am a simple dev that can progra
 
 
 ## Languages I know
-**I know some languages as you could say I am an average developer that has a hobby**
+I know some languages as you could say I am an average developer that has a hobby
 
 
 | Language | Knowledge |
