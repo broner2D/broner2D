@@ -1,5 +1,5 @@
 # About me
-Hello my name is Abdulrahman (Broner  2D), and I am a simple dev that can program, I dont really use github much but when I have time for it, I do publish some reositories\
+Hello my name is Abdulrahman (Broner  2D), and I am a simple dev that can program, I dont really use github much but when I have time for it, I do publish some repositories
 
 
 ## Languages I know
@@ -14,4 +14,4 @@ I know some languages as you could say I am an average developer that has a hobb
 | Rust | Comfortable to use |
 
 ## My upcoming games
-Slumberjack - A game where you cut trees (no other spoilers)
+I have nothing upcoming, not creative enough?
