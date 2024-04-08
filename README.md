@@ -9,7 +9,7 @@ I know some languages as you could say I am an average developer that has a hobb
 | Language | Knowledge |
 | ----------- | ----------- |
 | Python | Mid level |
-| Javascript | Comfortably leveled | 
+| Javascript/Typescript | Comfortably leveled | 
 | Java | lost advanced knowledge (basic knowledge) |
 | Rust | Love to use |
 
