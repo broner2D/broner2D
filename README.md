@@ -11,7 +11,7 @@ I know some languages as you could say I am an average developer that has a hobb
 | Python | Mid level |
 | Javascript | Comfortably leveled | 
 | Java | lost advanced knowledge (basic knowledge) |
-| Rust | Comfortable to use |
+| Rust | Love to use |
 
 ## My upcoming games
 I have nothing upcoming, not creative enough?
