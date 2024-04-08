@@ -16,7 +16,7 @@ I know some languages as you could say I am an average developer that has a hobb
 ## My upcoming games
 I have nothing upcoming, not creative enough?
 
-## Questions (I asked myself)
+## Q&A (I asked myself)
 
 ### Why is there another user with an almost identical name (broner3D)?
 ***
