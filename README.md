@@ -1,5 +1,5 @@
 # About me
-Hello my name is Abdulrahman (Broner  2D), and I am a simple dev that can program, I dont really use github much but when I have time for it, I do publish some repositories
+Hello my name is Abdulrahman (Broner  2D), and I am a simple dev that can program, I dont really use github much but when I have time for it, I try to publish repos, rn I dont really have much to do.
 
 ## My upcoming games
 I have nothing upcoming, not creative enough?
